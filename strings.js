@@ -32,7 +32,7 @@ console.log(cutReplace.replace("Aerosols", "AAerosolsA"));
 
 //8. Create a new string from a given string by changing the position of first and last characters. The string length must be greater than or equal to 2, i.e., expected output: BoogieWoogie => eoogieWoogiB
 
-console.log(greetings[greetings.length - 3] + greetings.charAt(3));
+console.log(azi[azi.length - 1] + azi.charAt(0));
 
 //9. Create 3 different variables about yourself, using strings as values, i.e, let firstName = "Maria"; let city = "Berlin", etc. Print a sentence to the console using the variables and string interpolation, i.e., "My name is Maria. I live in Berlin and I am a teacher".
 let firstName = "Ferdinand";
